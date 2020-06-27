@@ -1,8 +1,8 @@
 class Conway < Formula
   desc "Print statistics on module contribution"
   homepage "https://github.com/alecstrong/conway"
-  url "https://github.com/alecstrong/conway/releases/download/0.1.0/conway"
-  sha256 "190b35bebf12009bc55b1a0471d0fadff6ad43cfa7aff361c5771d0886e524bf"
+  url "https://github.com/alecstrong/conway/releases/download/0.2.0/conway"
+  sha256 "68b05d23116feaf99a733258a3ce0a4512ba44fb09a60d38677a40dd82e12915"
   head "https://github.com/alecstrong/conway.git"
 
   bottle :unneeded
