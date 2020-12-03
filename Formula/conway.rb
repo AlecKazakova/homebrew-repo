@@ -7,7 +7,7 @@ class Conway < Formula
 
   bottle :unneeded
 
-  depends_on :java
+  depends_on "openjdk"
 
   def install
     bin.install "conway" => "conway"
